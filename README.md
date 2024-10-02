@@ -1,13 +1,18 @@
 <h1 aligh="center">
 
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" height="50"> 
- Hi there  
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" height="50"> 
+ Hi there  👋🏻
+just do it
 </h1> 
 
-
+ 
 <div align="center">
+ 
 <img alt='gift' width='80%' height="400" align='right'  src='https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif'>
+
 </div>
+
+
 
 <div align="center">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
