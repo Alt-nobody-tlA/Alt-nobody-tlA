@@ -2,7 +2,6 @@
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" height="50"> 
  Hi there  👋🏻
-just do it
 </h1> 
 
  
@@ -23,6 +22,14 @@ just do it
 
 </div>
 
+
+<h1 aligh="center">
+☎️ Just do it 
+</h1> 
+
+<a href="https://t.me/your_username" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 <!--
 <div align="center">
