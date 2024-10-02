@@ -27,9 +27,15 @@
 ☎️ Just do it 
 </h1> 
 
-<a href="https://t.me/your_username" target="_blank">
+<div align="center">
+ 
+<a href="https://t.me/your_username" target="_blank" aligh="center">
   <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
+
+</div>
+
+
 
 <!--
 <div align="center">
